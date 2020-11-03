@@ -1,0 +1,13 @@
+C:\Users\posta\Desktop\conti.maurizio.4H.MediaMobile\conti.maurizio.4H.MediaMobile\bin\Debug\netcoreapp3.1\conti.maurizio.4H.MediaMobile.exe
+C:\Users\posta\Desktop\conti.maurizio.4H.MediaMobile\conti.maurizio.4H.MediaMobile\bin\Debug\netcoreapp3.1\conti.maurizio.4H.MediaMobile.deps.json
+C:\Users\posta\Desktop\conti.maurizio.4H.MediaMobile\conti.maurizio.4H.MediaMobile\bin\Debug\netcoreapp3.1\conti.maurizio.4H.MediaMobile.runtimeconfig.json
+C:\Users\posta\Desktop\conti.maurizio.4H.MediaMobile\conti.maurizio.4H.MediaMobile\bin\Debug\netcoreapp3.1\conti.maurizio.4H.MediaMobile.runtimeconfig.dev.json
+C:\Users\posta\Desktop\conti.maurizio.4H.MediaMobile\conti.maurizio.4H.MediaMobile\bin\Debug\netcoreapp3.1\conti.maurizio.4H.MediaMobile.dll
+C:\Users\posta\Desktop\conti.maurizio.4H.MediaMobile\conti.maurizio.4H.MediaMobile\bin\Debug\netcoreapp3.1\conti.maurizio.4H.MediaMobile.pdb
+C:\Users\posta\Desktop\conti.maurizio.4H.MediaMobile\conti.maurizio.4H.MediaMobile\obj\Debug\netcoreapp3.1\conti.maurizio.4H.MediaMobile.csprojAssemblyReference.cache
+C:\Users\posta\Desktop\conti.maurizio.4H.MediaMobile\conti.maurizio.4H.MediaMobile\obj\Debug\netcoreapp3.1\conti.maurizio.4H.MediaMobile.AssemblyInfoInputs.cache
+C:\Users\posta\Desktop\conti.maurizio.4H.MediaMobile\conti.maurizio.4H.MediaMobile\obj\Debug\netcoreapp3.1\conti.maurizio.4H.MediaMobile.AssemblyInfo.cs
+C:\Users\posta\Desktop\conti.maurizio.4H.MediaMobile\conti.maurizio.4H.MediaMobile\obj\Debug\netcoreapp3.1\conti.maurizio.4H.MediaMobile.csproj.CoreCompileInputs.cache
+C:\Users\posta\Desktop\conti.maurizio.4H.MediaMobile\conti.maurizio.4H.MediaMobile\obj\Debug\netcoreapp3.1\conti.maurizio.4H.MediaMobile.dll
+C:\Users\posta\Desktop\conti.maurizio.4H.MediaMobile\conti.maurizio.4H.MediaMobile\obj\Debug\netcoreapp3.1\conti.maurizio.4H.MediaMobile.pdb
+C:\Users\posta\Desktop\conti.maurizio.4H.MediaMobile\conti.maurizio.4H.MediaMobile\obj\Debug\netcoreapp3.1\conti.maurizio.4H.MediaMobile.genruntimeconfig.cache

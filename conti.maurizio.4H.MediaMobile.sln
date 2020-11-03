@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "conti.maurizio.4H.MediaMobile", "conti.maurizio.4H.MediaMobile\conti.maurizio.4H.MediaMobile.csproj", "{302776C8-B2A2-4655-81EC-5CD61FE42818}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{302776C8-B2A2-4655-81EC-5CD61FE42818}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{302776C8-B2A2-4655-81EC-5CD61FE42818}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{302776C8-B2A2-4655-81EC-5CD61FE42818}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{302776C8-B2A2-4655-81EC-5CD61FE42818}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE1BE88C-121A-47F3-9D6E-DFBF0F6AFBA2}
+	EndGlobalSection
+EndGlobal

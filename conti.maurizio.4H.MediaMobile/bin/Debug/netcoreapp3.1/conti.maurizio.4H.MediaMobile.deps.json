@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "conti.maurizio.4H.MediaMobile/1.0.0": {
+        "runtime": {
+          "conti.maurizio.4H.MediaMobile.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "conti.maurizio.4H.MediaMobile/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
